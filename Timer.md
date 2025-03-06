@@ -1,4 +1,4 @@
-markdown_content = """\
+
 # Class
 ## Timer
 

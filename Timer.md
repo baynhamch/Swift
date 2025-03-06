@@ -1,6 +1,4 @@
-
-# Class
-## Timer
+# Timer
 
 A timer that fires after a certain time interval has elapsed, sending a specified message to a target object.  
 
